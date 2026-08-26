@@ -1,6 +1,6 @@
 ## Hi World! I'm Mario Klau 👋
 
-![Mario Klau](img/mario.png)
+![Mario Klau](img/mario(1).png)
 
 <!--
 **marioklau/marioklau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
