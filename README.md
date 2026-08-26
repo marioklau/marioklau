@@ -1,4 +1,4 @@
-## Hi World! I'm Mario Klau 👋
+## Hello World! I'm Mario Klau 👋
 
 ![Mario Klau](img/github-header-banner.png)
 
