@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi World! I'm Mario Klau 👋
+
+![Mario Klau](img/mario.png)
 
 <!--
 **marioklau/marioklau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework
